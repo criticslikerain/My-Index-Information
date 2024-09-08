@@ -2,5 +2,5 @@
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/862bea7f-98a9-4082-b285-1bc22ecf46a8" alt="index information" width="800">
+<img src="https://github.com/user-attachments/assets/6c6c1202-bb92-45f9-9072-d5e50f7f22c7" alt="index information" width="800">
 </div>
